@@ -1,14 +1,14 @@
 # 📚 Machine Learning & Data Engineering Topics Checklist
 
-> A curated roadmap and checklist to track learning progress across core topics in Deep Learning, Time Series, NLP, Image Processing, ML OOPs, CI/CD, and Data Engineering.
+> Roadmap and checklist for mastering ML and Data Engineering topics.
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo) 
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/yourrepo) 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo) 
-![GitHub license](https://img.shields.io/github/license/yourusername/yourrepo)
+![GitHub repo size](https://img.shields.io/github/repo-size/Wandering-Death/my-learning) 
+![GitHub contributors](https://img.shields.io/github/contributors/Wandering-Death/my-learning) 
+![GitHub stars](https://img.shields.io/github/stars/Wandering-Death/my-learning?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Wandering-Death/my-learning) 
+![GitHub license](https://img.shields.io/github/license/Wandering-Death/my-learning)
 
 ---
 
@@ -92,7 +92,7 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check [issues page](https://github.com/yourusername/yourrepo/issues).  
+Feel free to check [issues page](https://github.com/Wandering-Death/my-learning/issues).  
 Please make sure to update tests as appropriate.
 
 ---
@@ -103,4 +103,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
-*Made with ❤️ by Your Name*  
+*Made with ❤️ by Wandering-Death*
